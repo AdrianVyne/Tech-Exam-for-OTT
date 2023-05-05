@@ -9,3 +9,4 @@ composer require maatwebsite/excel
 
 make sure to enable gd file extension (if using windows uncomment the gd file exteionsion on your php.ini file)
 
+migrate database
